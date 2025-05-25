@@ -6,7 +6,8 @@
 
 Predicción para edad=30 y balance=2000: Sí
 
-Matriz de Confusión:
+**Matriz de Confusión**
+
 [922 581]
 
 [591 697]
