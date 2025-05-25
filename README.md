@@ -12,7 +12,7 @@ Predicción para edad=30 y balance=2000: Sí
 
 [ 461  827]
 
-Precisión: 0.66
+Precisión del modelo: 0.66
 
 **Interpretacion**
 
