@@ -8,11 +8,11 @@ Predicción para edad=30 y balance=2000: Sí
 
 **Matriz de Confusión**
 
-[922 581]
+[1014  489]
 
-[591 697]
+[ 461  827]
 
-Precisión: 0.58
+Precisión: 0.66
 
 **Interpretacion**
 
